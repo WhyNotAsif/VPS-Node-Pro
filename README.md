@@ -143,23 +143,6 @@ vps-node-pro/
 
 ---
 
-## Name Suggestions
-
-| Name | Why |
-|---|---|
-| **VPS Node Pro** | Clear, professional, searchable |
-| **ShellBoard** | Shell + dashboard — short and memorable |
-| **ServerDeck** | Cockpit metaphor, dev-friendly |
-| **NodeWatch** | Monitoring + control in one word |
-| **PanelZero** | Anti-bloat positioning |
-| **Conduit** | A conduit between you and your server |
-| **RootView** | Full root-level visibility |
-| **RemoteOps** | Professional, resume-friendly |
-| **ServerGlass** | Transparent visibility into your server |
-| **HelmPort** | Helm (control) + Port (networking) |
-
----
-
 ## For Recruiters
 
 This project demonstrates:
@@ -178,6 +161,3 @@ This project demonstrates:
 **Asif Ali** — Software Engineer & Public Health Technologist  
 Portfolio: [asif-jamali-portfolio.vercel.app](https://asif-jamali-portfolio.vercel.app/)
 
----
-
-*MIT License — open source, fork it, build on it.*
